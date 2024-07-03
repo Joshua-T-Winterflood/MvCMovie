@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvcMovie\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
-      "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvcMovie\\MvcMovie\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvcMovie\\MvcMovire\\MvcMovire\\MvcMovire.csproj",
+      "projectName": "MvcMovire",
+      "projectPath": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvcMovie\\MvcMovire\\MvcMovire\\MvcMovire.csproj",
       "packagesPath": "C:\\Users\\joshu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvcMovie\\MvcMovie\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvcMovie\\MvcMovire\\MvcMovire\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joshu\\AppData\\Roaming\\NuGet\\NuGet.Config",
