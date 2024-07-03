@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MvcMovie",
+    "\\MvcMovie\\bin",
+    "\\MvcMovie\\Contracts",
+    "\\MvcMovie\\Controllers",
+    "\\MvcMovie\\Data",
+    "\\MvcMovie\\Domain"
+  ],
+  "SelectedNode": "\\MvcMovie\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
