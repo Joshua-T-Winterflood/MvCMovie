@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-using MvcMovie.Models;
+using MvcMovie.Domain;
 using System.Diagnostics;
 
 namespace MvcMovie.Controllers
