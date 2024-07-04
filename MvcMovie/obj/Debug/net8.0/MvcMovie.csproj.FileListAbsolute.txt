@@ -230,3 +230,8 @@ C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\obj\De
 C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\bin\Debug\net8.0\libman.json
+C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\bin\Debug\net8.0\MediatR.dll
+C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

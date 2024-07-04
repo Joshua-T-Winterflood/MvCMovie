@@ -17,6 +17,17 @@ namespace MvcMovie.Data
 
         public DbSet<Movie> Movie { get; set; } = default!;
 
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // Configure the Id property to be an identity column
+            modelBuilder.Entity<Movie>()
+                .Property(m => m.Id)
+                .HasIdentityOptions(startValue: 100); // This sets the Id property to use SQL identity/auto-increment
+        }
+
         public override int SaveChanges()
         {
             foreach (var entry in ChangeTracker.Entries<Movie>())
