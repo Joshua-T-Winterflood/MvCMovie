@@ -189,4 +189,31 @@ public class MoviesController : Controller
         response.StatusCode = StatusCodes.Status200OK;
         return response;
     }
+    [HttpPut]
+    [ProducesResponseType(typeof(MovieResponse), StatusCodes.Status200OK)]
+    public async Task<IActionResult> UpdateMovie([FromBody] UpdateMovieCommand command)
+    {
+        var movieresponse = await _mediator.Send(command);
+        var response = Json(movieresponse);
+        response.StatusCode = StatusCodes.Status200OK;
+        return response;
+    }
+    [HttpDelete]
+    [ProducesResponseType(typeof(Unit), StatusCodes.Status200OK)]
+    public async Task<IActionResult> DeleteMovie([FromBody] DeleteMovieCommand command)
+    {
+        var empty_response = await _mediator.Send(command);
+        var response = Json(empty_response);
+        response.StatusCode = StatusCodes.Status200OK;
+        return response;
+    }
+    [HttpGet]
+    [ProducesResponseType(typeof(MovieResponse), StatusCodes.Status200OK)]
+    public async Task<IActionResult> GetMovieById([FromBody] GetMovieByIdQuery request)
+    {
+        var movieresponse = await _mediator.Send(request);
+        var response = Json(movieresponse);
+        response.StatusCode = StatusCodes.Status200OK;
+        return response;
+    }
 }
