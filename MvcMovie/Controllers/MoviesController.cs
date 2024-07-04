@@ -10,6 +10,7 @@ using MvcMovie.Domain;
 using MvcMovie.Contracts;
 using MvcMovie.Contracts.Movies.Command;
 using MediatR;
+using MvcMovie.Contracts.Movies.Query;
 
 
 namespace MvcMovie.Controllers;
@@ -176,6 +177,16 @@ public class MoviesController : Controller
         var movie = await _mediator.Send(command);
         var response = Json(movie);
         response.StatusCode = StatusCodes.Status201Created;
+        return response;
+    }
+
+    [HttpGet]
+    [ProducesResponseType(typeof(PagedResult<MovieResponse>),StatusCodes.Status200OK)]
+    public async Task<IActionResult> GetAllMovies([FromBody]GetAllMoviesQuery request)
+    {
+        var movies = await _mediator.Send(request);
+        var response = Json(movies);
+        response.StatusCode = StatusCodes.Status200OK;
         return response;
     }
 }
