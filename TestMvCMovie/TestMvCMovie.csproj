@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<IsTestProject>true</IsTestProject>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="coverlet.collector" Version="6.0.2">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Dapper" Version="2.1.35" />
+		<PackageReference Include="Marten" Version="7.23.1" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Testing" Version="8.0.7" />
+		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.10.0" />
+		<PackageReference Include="Npgsql" Version="8.0.3" />
+		<PackageReference Include="Testcontainers" Version="3.9.0" />
+		<PackageReference Include="Testcontainers.PostgreSql" Version="3.9.0" />
+		<PackageReference Include="xunit" Version="2.9.0" />
+		<PackageReference Include="xunit.runner.visualstudio" Version="2.8.2">
+		  <PrivateAssets>all</PrivateAssets>
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\MvcMovie\MvcMovie\MvcMovie.csproj" />
+	</ItemGroup>
+
+	<!--<ItemGroup>
+		<InternalsVisibleTo Include="C:\Users\joshu\Desktop\UZH\Jobs\ACE\First Steps C-Sharp\MvcMovie\MvcMovie\MvcMovie.csproj" />
+	</ItemGroup>-->
+
+	<ItemGroup>
+		<Folder Include="..\MvcMovie\Infrastructure\Migrations\" />
+	</ItemGroup>
+
+</Project>
