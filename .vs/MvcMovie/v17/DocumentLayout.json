@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79DDE157-139F-45F9-8FD2-3C32F0418065}|MvcMovie\\MvcMovie.csproj|c:\\users\\joshu\\desktop\\uzh\\jobs\\ace\\first steps c-sharp\\mvcmovie\\mvcmovie\\mvcmovietests\\httptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79DDE157-139F-45F9-8FD2-3C32F0418065}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\mvcmovietests\\httptest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{655421E8-9424-4418-9AFA-49375F5D8578}|TestMvCMovie\\TestMvCMovie.csproj|c:\\users\\joshu\\desktop\\uzh\\jobs\\ace\\first steps c-sharp\\mvcmovie\\testmvcmovie\\testcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655421E8-9424-4418-9AFA-49375F5D8578}|TestMvCMovie\\TestMvCMovie.csproj|solutionrelative:testmvcmovie\\testcommands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79DDE157-139F-45F9-8FD2-3C32F0418065}|MvcMovie\\MvcMovie.csproj|c:\\users\\joshu\\desktop\\uzh\\jobs\\ace\\first steps c-sharp\\mvcmovie\\mvcmovie\\mvcmovietests\\mvcmovietests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{79DDE157-139F-45F9-8FD2-3C32F0418065}|MvcMovie\\MvcMovie.csproj|solutionrelative:mvcmovie\\mvcmovietests\\mvcmovietests.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{655421E8-9424-4418-9AFA-49375F5D8578}|TestMvCMovie\\TestMvCMovie.csproj|c:\\users\\joshu\\desktop\\uzh\\jobs\\ace\\first steps c-sharp\\mvcmovie\\testmvcmovie\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{655421E8-9424-4418-9AFA-49375F5D8578}|TestMvCMovie\\TestMvCMovie.csproj|solutionrelative:testmvcmovie\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{655421E8-9424-4418-9AFA-49375F5D8578}|TestMvCMovie\\TestMvCMovie.csproj|c:\\users\\joshu\\desktop\\uzh\\jobs\\ace\\first steps c-sharp\\mvcmovie\\testmvcmovie\\testmvcmovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{655421E8-9424-4418-9AFA-49375F5D8578}|TestMvCMovie\\TestMvCMovie.csproj|solutionrelative:testmvcmovie\\testmvcmovie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79DDE157-139F-45F9-8FD2-3C32F0418065}|MvcMovie\\MvcMovie.csproj|c:\\users\\joshu\\desktop\\uzh\\jobs\\ace\\first steps c-sharp\\mvcmovie\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,37 +50,54 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HttpTest.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\MvcMovieTests\\HttpTest.cs",
-              "RelativeDocumentMoniker": "MvcMovie\\MvcMovieTests\\HttpTest.cs",
-              "ToolTip": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\MvcMovieTests\\HttpTest.cs",
-              "RelativeToolTip": "MvcMovie\\MvcMovieTests\\HttpTest.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwCkAAAAbAAAA",
+              "Title": "TestCommands.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\TestMvCMovie\\TestCommands.cs",
+              "RelativeDocumentMoniker": "TestMvCMovie\\TestCommands.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\TestMvCMovie\\TestCommands.cs",
+              "RelativeToolTip": "TestMvCMovie\\TestCommands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T13:21:52.098Z",
+              "WhenOpened": "2024-07-16T08:23:23.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestMvCMovie",
+              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\TestMvCMovie\\TestMvCMovie.csproj",
+              "RelativeDocumentMoniker": "TestMvCMovie\\TestMvCMovie.csproj",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\TestMvCMovie\\TestMvCMovie.csproj",
+              "RelativeToolTip": "TestMvCMovie\\TestMvCMovie.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-16T08:21:58.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MvcMovieTests.csproj",
-              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\MvcMovieTests\\MvcMovieTests.csproj",
-              "RelativeDocumentMoniker": "MvcMovie\\MvcMovieTests\\MvcMovieTests.csproj",
-              "ToolTip": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\MvcMovieTests\\MvcMovieTests.csproj",
-              "RelativeToolTip": "MvcMovie\\MvcMovieTests\\MvcMovieTests.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-07-11T13:21:38.026Z",
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\TestMvCMovie\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestMvCMovie\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\TestMvCMovie\\UnitTest1.cs",
+              "RelativeToolTip": "TestMvCMovie\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T08:21:49.5Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "GetAllMovies.cs",
               "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\Contracts\\Movies\\Query\\GetAllMovies.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Contracts\\Movies\\Query\\GetAllMovies.cs",
@@ -84,12 +105,11 @@
               "RelativeToolTip": "MvcMovie\\Contracts\\Movies\\Query\\GetAllMovies.cs",
               "ViewState": "AQIAADQAAAAAAABeYa0ewAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T15:08:48.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T15:08:48.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GetMovieById.cs",
               "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\Contracts\\Movies\\Query\\GetMovieById.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Contracts\\Movies\\Query\\GetMovieById.cs",
@@ -97,12 +117,11 @@
               "RelativeToolTip": "MvcMovie\\Contracts\\Movies\\Query\\GetMovieById.cs",
               "ViewState": "AQIAAAsAAAAAAACYLRz4vx0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T15:33:52.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T15:33:52.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "DeleteMovie.cs",
               "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\Contracts\\Movies\\Command\\DeleteMovie.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Contracts\\Movies\\Command\\DeleteMovie.cs",
@@ -110,12 +129,11 @@
               "RelativeToolTip": "MvcMovie\\Contracts\\Movies\\Command\\DeleteMovie.cs",
               "ViewState": "AQIAAAcAAAAAAADUuAMowAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T14:26:33.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T14:26:33.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MoviesController.cs",
               "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\Controllers\\MoviesController.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Controllers\\MoviesController.cs",
@@ -128,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CreateMovie.cs",
               "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\Contracts\\Movies\\Command\\CreateMovie.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Contracts\\Movies\\Command\\CreateMovie.cs",
@@ -136,12 +154,11 @@
               "RelativeToolTip": "MvcMovie\\Contracts\\Movies\\Command\\CreateMovie.cs",
               "ViewState": "AQIAAAgAAAAAAAA/8N0owAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T13:39:11.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T13:39:11.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UpdateMovie.cs",
               "DocumentMoniker": "C:\\Users\\joshu\\Desktop\\UZH\\Jobs\\ACE\\First Steps C-Sharp\\MvCMovie\\MvcMovie\\Contracts\\Movies\\Command\\UpdateMovie.cs",
               "RelativeDocumentMoniker": "MvcMovie\\Contracts\\Movies\\Command\\UpdateMovie.cs",
@@ -149,8 +166,7 @@
               "RelativeToolTip": "MvcMovie\\Contracts\\Movies\\Command\\UpdateMovie.cs",
               "ViewState": "AQIAAB4AAAAAAAB3eeYqwCcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T13:04:58.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T13:04:58.098Z"
             }
           ]
         }
