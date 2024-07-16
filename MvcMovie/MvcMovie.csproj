@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="MvcMovieTests\MvcMovieTests.csproj" />
+    <Folder Include="Testing\" />
   </ItemGroup>
 
 </Project>
