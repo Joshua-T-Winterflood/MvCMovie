@@ -1,3 +1,5 @@
+using Xunit;
+
 namespace TestMvCMovie
 {
     public class UnitTest1
@@ -5,6 +7,7 @@ namespace TestMvCMovie
         [Fact]
         public void Test1()
         {
+            Assert.True(true);
 
         }
     }
